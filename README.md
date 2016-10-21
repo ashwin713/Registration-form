@@ -1,2 +1,2 @@
 # Registration-form
-Make a registration form using ReactJS
+Design a registration form using ReactJS
